@@ -6,5 +6,6 @@ Interfaces of weather app---
 <img width="243" alt="image" src="https://github.com/user-attachments/assets/2ce575e9-294f-4158-9fd0-8e9e531e7aa4">
 <img width="331" alt="image" src="https://github.com/user-attachments/assets/f196992d-20b7-459a-8cb7-0a0a3d7d01df">
 <img width="339" alt="image" src="https://github.com/user-attachments/assets/20fe2246-1355-4db0-beec-a1ab73396e9b">
+<img width="335" alt="image" src="https://github.com/user-attachments/assets/6cf54b74-647f-4dad-9e67-6b03a6062a0d">
 
 
